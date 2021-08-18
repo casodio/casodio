@@ -1,6 +1,6 @@
-- 👋 olá, @casodio aqui...
-- 👀 estou interessado em programação
-- 🌱 Estou aprendendo python atualmente
+- 👋 olá, Marcio Maia (@casodio) aqui...
+- 👀 estou interessado em programação.
+- 🌱 Estou aprendendo python atualmente.
 - 📧 contato: marciojesusmaia@hotmail.com
 
 <!---
