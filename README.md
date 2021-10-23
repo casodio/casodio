@@ -1,6 +1,6 @@
-- 👋 olá, Marcio Maia (@casodio) aqui...
-- 👀 estou interessado em programação.
-- 🌱 Estou aprendendo python atualmente.
+- 👋 olá, me chamo Marcio Maia 
+- 👀 Sou Tecnólogo em Analise e Desenvolvimento de Sistemas
+- 🌱 Estou aprendendo python atualmente e buscando sempre a evolução.
 - 📧 contato: marciojesusmaia@hotmail.com
 
 <!---
